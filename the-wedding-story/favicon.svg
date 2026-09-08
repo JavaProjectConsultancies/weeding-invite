@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="32" fill="#F7F2EA"/>
+  <circle cx="32" cy="32" r="26" stroke="#6B2C3E" stroke-width="1.2"/>
+  <circle cx="32" cy="32" r="22" stroke="#B8976A" stroke-width="0.6" opacity="0.7"/>
+  <path d="M32 14c.4 4.2 2.8 8 6.8 10.2C34.8 26.4 32 30.8 32 36c0-5.2-2.8-9.6-6.8-11.8C29.2 22 31.6 18.2 32 14z" fill="#6B2C3E" opacity="0.85"/>
+  <path d="M22 40.5c3.2-1.4 6.6-1.4 10 0 3.4-1.4 6.8-1.4 10 0" stroke="#B8976A" stroke-width="1" stroke-linecap="round"/>
+  <text x="32" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#6B2C3E" letter-spacing="1">A&amp;M</text>
+</svg>
