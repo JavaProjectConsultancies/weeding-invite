@@ -6,8 +6,8 @@ window.WEDDING_CONFIG = {
   brand: "The Wedding Story",
   couple: {
     groom: "Arjun",
-    bride: "Meera",
-    monogram: "A ♡ M"
+    bride: "Shruti",
+    monogram: "A ♡ S"
   },
   date: {
     iso: "2027-02-15T11:30:00+05:30",
@@ -220,7 +220,7 @@ window.WEDDING_CONFIG = {
     title: "Wedding Melody"
   },
   calendar: {
-    title: "Arjun & Meera Wedding",
+    title: "Arjun & Shruti Wedding",
     details: "Wedding Ceremony at The Grand Palace, Nagpur",
     location: "The Grand Palace, Nagpur, Maharashtra"
   }

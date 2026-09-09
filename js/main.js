@@ -487,7 +487,7 @@
       const url = URL.createObjectURL(blob);
       const a = document.createElement("a");
       a.href = url;
-      a.download = "arjun-meera-wedding.ics";
+      a.download = "arjun-Shruti-wedding.ics";
       a.click();
       URL.revokeObjectURL(url);
     });
